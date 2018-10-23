@@ -1,0 +1,11 @@
+D:\InputValidation\InputValidation\bin\Debug\netcoreapp2.1\InputValidation.deps.json
+D:\InputValidation\InputValidation\bin\Debug\netcoreapp2.1\InputValidation.runtimeconfig.json
+D:\InputValidation\InputValidation\bin\Debug\netcoreapp2.1\InputValidation.runtimeconfig.dev.json
+D:\InputValidation\InputValidation\bin\Debug\netcoreapp2.1\InputValidation.dll
+D:\InputValidation\InputValidation\bin\Debug\netcoreapp2.1\InputValidation.pdb
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.csprojAssemblyReference.cache
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.csproj.CoreCompileInputs.cache
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.AssemblyInfoInputs.cache
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.AssemblyInfo.cs
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.dll
+D:\InputValidation\InputValidation\obj\Debug\netcoreapp2.1\InputValidation.pdb
